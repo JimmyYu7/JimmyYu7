@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI and Big Data applications
 - 🌱 I’m currently honing my skills in AI and database technologies
 - 💞️ I’m looking to collaborate on projects involving my interests and expertise
-- 📫 How to reach me: [微信公众号：进击的DBA]
+- 📫 How to reach me: [微信公众号：数字Yu人]
 
 ## My GitHub Statistics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JimmyYu7&theme=tokyonight&show_icons=true)
